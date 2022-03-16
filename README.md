@@ -18,8 +18,8 @@
 </div>
   
   <div align="center"><br><br>
-    <a href='https://www.linkedin.com/in/michael-armesto-b06346232/' target="_blank"><img alt='Linkedin' target="_blank" src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=4a9f8b&labelColor=black&color=black'/></a>
-    <a href='https://www.instagram.com/13michl/' target="_blank"><img alt='Instagram' target="_blank" src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=4a9f8b&labelColor=black&color=black'/></a>
+    <a href='https://www.linkedin.com/in/michael-armesto-b06346232/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=4a9f8b&labelColor=black&color=black' target="_blank"></a>
+    <a href='https://www.instagram.com/13michl/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=4a9f8b&labelColor=black&color=black'/ target="_blank"></a>
     
     
     
